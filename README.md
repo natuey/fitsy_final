@@ -1,5 +1,5 @@
 # fitsy--Our First Terminal App
-* [GitHub Repo link](https://github.com/natuey/fitsy_project)
+* [GitHub Repo link](https://github.com/natuey/fitsy_final)
 * **App Description**
   * Purpose
     * The foreign employers of the fitness centers want to find suitable fitness professionals for their growing business. Our app is to help the employers screen the applicants to get the most suitable ones.
